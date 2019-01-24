@@ -24,7 +24,7 @@ namespace AspMVC.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "CloudThat Technologies";
 
             return View();
         }
