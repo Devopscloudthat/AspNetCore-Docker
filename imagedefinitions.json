@@ -1,5 +1,5 @@
     {
         "name": "aspdotnet",
-        "imageUri": "https://1234567890.dkr.ecr.us-east-1.amazonaws.com/spinnaker-repo:latest"
+        "imageUri": "https://12345678901.dkr.ecr.us-east-1.amazonaws.com/spinnaker-repo:latest"
     }
 ]
